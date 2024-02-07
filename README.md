@@ -3,7 +3,7 @@
 Journal of Applied Clinical Medical Physics, 2024
 
 ## Getting Started
-The pretrained model can be downloaded from: `link`. This model was trained for the segmentation of the frontal white matter, corpus callosum,
+The pretrained model can be downloaded from:  `https://github.com/JHU-MICA/JACMP2024_PedsBrainSeg/releases/download/Model/model.pt`. This model was trained for the segmentation of the frontal white matter, corpus callosum,
 hippocampus, temporal lobes, and brainstem on a pediatric dataset. 
 
 Creating env and installing dependencies:
