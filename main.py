@@ -62,7 +62,7 @@ def process_dicoms(event):
 
 
         ds = nib.load(foldername + '/' + 'Image.nii')
-        ds2 = nip.conform(ds, (256,256, 156))
+        ds2 = nip.conform(ds, (172,220, 156))
 
         nib.save(ds2, foldername + '/' + 'Image_resampled')
 
