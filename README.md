@@ -60,7 +60,7 @@ and add this batch to Windows `Task scheduler` and configure so that the script 
 
 Please consider citing the following relevant papers:
 
-If you use the UNesT model ( files from https://github.com/MASILab/UNesT/tree/main/wholebrainSeg/networks are: nest_transformer_3D.py, patchEmbed3D.py, unest_base_patch_4.py, unest_block.py, utils.py)
+If you use the UNesT model ( files from https://monai.io/model-zoo.html are: nest_transformer_3D.py, patchEmbed3D.py, unest_base_patch_4.py, unest_block.py, utils.py)
 
 > Yu, X., Tang, Y., Zhou, Y., Gao, R., Yang, Q., Lee, H. H., Li, T., Bao, S., Huo, Y., Xu, Z., Lasko, T. A., Abramson, R. G., & Landman, B. A. (2023). UNesT: Local spatial representation learning with hierarchical transformer for efficient medical segmentation, Medical Image Analysis, Volume 90. https://doi.org/10.1016/j.media.2023.102939.
 
