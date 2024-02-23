@@ -60,14 +60,14 @@ and add this batch to Windows `Task scheduler` and configure so that the script 
 
 Please consider citing the following relevant papers:
 
-If you use the UNesT model
+If you use the UNesT model ( files from https://github.com/MASILab/UNesT/tree/main/wholebrainSeg/networks are: nest_transformer_3D.py, patchEmbed3D.py, unest_base_patch_4.py, unest_block.py, utils.py)
 
 > Yu, X., Tang, Y., Zhou, Y., Gao, R., Yang, Q., Lee, H. H., Li, T., Bao, S., Huo, Y., Xu, Z., Lasko, T. A., Abramson, R. G., & Landman, B. A. (2023). UNesT: Local spatial representation learning with hierarchical transformer for efficient medical segmentation, Medical Image Analysis, Volume 90. https://doi.org/10.1016/j.media.2023.102939.
 
-For the conversion of predictions to DICOM RT
+For the conversion of predictions to DICOM RT (files from: https://github.com/brianmanderson/Dicom_RT_and_Images_to_Mask are ReaderWriter.py, key_list.txt, template_RS.dcm) 
 > Anderson, B. M., Wahid, K. A., & Brock, K. K. (2021). Simple Python Module for Conversions Between DICOM Images and Radiation Therapy Structures, Masks, and Prediction Arrays. Practical Radiation Oncology, 11(3), 226–229. https://doi.org/https://doi.org/10.1016/j.prro.2021.02.003
 
-For integration to TPS
+For integration to TPS (dicom_listener.py, main.py)
 > Mekki, L., Acharya, A., Ladra, M, Lee, J. (2024). Deep Learning Segmentation of Organs-At-Risk with
 > Integration into Clinical Workflow for Pediatric Brain Radiotherapy. Journal of Applied Clinical Medical Physics
 
