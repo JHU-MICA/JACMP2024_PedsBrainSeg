@@ -68,7 +68,6 @@ For the conversion of predictions to DICOM RT (files from: https://github.com/br
 > Anderson, B. M., Wahid, K. A., & Brock, K. K. (2021). Simple Python Module for Conversions Between DICOM Images and Radiation Therapy Structures, Masks, and Prediction Arrays. Practical Radiation Oncology, 11(3), 226–229. https://doi.org/https://doi.org/10.1016/j.prro.2021.02.003
 
 For integration to TPS (dicom_listener.py, main.py)
-> Mekki, L., Acharya, A., Ladra, M, Lee, J. (2024). Deep Learning Segmentation of Organs-At-Risk with
-> Integration into Clinical Workflow for Pediatric Brain Radiotherapy. Journal of Applied Clinical Medical Physics
+> Mekki, L., Acharya, A., Ladra, M, Lee, J. (2024). Deep Learning Segmentation of Organs-At-Risk with Integration into Clinical Workflow for Pediatric Brain Radiotherapy. Journal of Applied Clinical Medical Physics, Volume 25, Issue 3, p.e14310. https://doi.org/10.1002/acm2.14310
 
 
